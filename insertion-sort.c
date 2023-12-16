@@ -1,7 +1,7 @@
 //  Algoritmo de Ordenação por Inserção
 #include <stdio.h>
 
-int v[] = {35, 8, 5, 1, 21, 1, 2, 3, 12};
+int v[9] = {35, 8, 5, 1, 21, 1, 2, 3, 12};
 
 int main(void){
 
